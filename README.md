@@ -56,4 +56,14 @@ here at the end of the lesson.
   * download everything in Intro to HTML/CS
 * I have set up a very basic, minimal boilerplate
 * I will walk you through how I make a simple about page in HTML, and then style it with CSS
-* If time permits, I'll show you the very popular image hover effect and explain how it works
+
+## Sublime Text Plugins I used
+* [BracketHighlighter](https://facelessuser.github.io/BracketHighlighter/installation/)
+* [Emmet](https://packagecontrol.io/packages/Emmet)
+
+## Additional Resources
+* [InnoD Web Handbook](https://github.com/cle1994/InnoD_Web_Handbook)
+* [Web Tier 2016 Lessons](https://github.com/jubearsun/web-tier-2016)
+* [Web Tier 2017 Lessons](https://github.com/jubearsun/web-tier-2017)
+* Google
+
