@@ -8,19 +8,19 @@ I played Neopets, and just messing around with other people's code to see what i
 an elementary schooler can learn it, you can too!
 
 ## Overview
-Web design is very much self taught.  There is no one class or one program that will teach you 
-everything.  In fact, the way that I and pretty much everyone else I know learned web is just by 
-trying to build a website and going from there.  At times, it can seem a little overwhelming but 
-Google/Stack Overflow help a ton.  Additionally, no one is ever "done" learning, as web is 
+Web design is very much self taught.  There is no one class or one program that will teach you
+everything.  In fact, the way that I and pretty much everyone else I know learned web is just by
+trying to build a website and going from there.  At times, it can seem a little overwhelming but
+Google/Stack Overflow help a ton.  Additionally, no one is ever "done" learning, as web is
 constantly evolving.
 
-There is a ridiculous number of articles out there for learning web related things; it's not good 
-or bad. There are articles aimed to teach foundations for those just starting, to articles talking 
-about how to scale distribution, to articles focused on cool animations. Don't get bogged down by 
-the shear amount of information, instead just tackle things as you want. If you want to add a 
-button, add the button. And then when you want to animate it, animate it. It's all a giant puzzle 
-that you piece together, you just have to learn how to make the pieces at the beginning. If you see 
-something you like, try to break it, remake it, and then make it yours. Just remember to give 
+There is a ridiculous number of articles out there for learning web related things; it's not good
+or bad. There are articles aimed to teach foundations for those just starting, to articles talking
+about how to scale distribution, to articles focused on cool animations. Don't get bogged down by
+the shear amount of information, instead just tackle things as you want. If you want to add a
+button, add the button. And then when you want to animate it, animate it. It's all a giant puzzle
+that you piece together, you just have to learn how to make the pieces at the beginning. If you see
+something you like, try to break it, remake it, and then make it yours. Just remember to give
 people credit when if you ever borrow/copy anything, even if you change it.
 
 This goes for lots of other discplines, not just web!
@@ -48,7 +48,7 @@ here at the end of the lesson.
   * border-box sets element width, height to border, not content-box
 * z-index
   * kind of like layers in graphic design
-  * how far "out" of the page an element is 
+  * how far "out" of the page an element is
 
 ## Creating Your Web Page
 * Download the files
@@ -66,4 +66,8 @@ here at the end of the lesson.
 * [Web Tier 2016 Lessons](https://github.com/jubearsun/web-tier-2016)
 * [Web Tier 2017 Lessons](https://github.com/jubearsun/web-tier-2017)
 * Google
+
+## Done? Ready to host your website?
+* [Learn Git](https://try.github.io/levels/1/challenges/1)
+* [GitHub Pages](https://pages.github.com/)
 
