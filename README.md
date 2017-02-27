@@ -65,6 +65,7 @@ here at the end of the lesson.
 * [InnoD Web Handbook](https://github.com/cle1994/InnoD_Web_Handbook)
 * [Web Tier 2016 Lessons](https://github.com/jubearsun/web-tier-2016)
 * [Web Tier 2017 Lessons](https://github.com/jubearsun/web-tier-2017)
+* [Hex Spring 2016 Lesson](https://github.com/jubearsun/hex-sp16)
 * Google
 
 ## Done? Ready to host your website?
